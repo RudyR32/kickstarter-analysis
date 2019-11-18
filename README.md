@@ -5,3 +5,4 @@ US Kickstarter campaigns for plays have the highest success rate when they have 
 
 ![Outcomes based on Launch Date for Theater](https://github.com/RudyR32/kickstarter-analysis/blob/master/Outcomes%20based%20on%20Launch%20Date%20for%20Theater.png)
 ![Outcomes based on Goals for Play by Percentage](https://github.com/RudyR32/kickstarter-analysis/blob/master/Outcomes%20based%20on%20Goals%20Plays%20by%20Percentage.png)
+![Start Booker 1-1-3 Rudyr Challenge 1](https://github.com/RudyR32/kickstarter-analysis/blob/master/data-1-1-3-StarterBook-Rudyr%20Kickstarter%20Data%20C.1.xlsx)
